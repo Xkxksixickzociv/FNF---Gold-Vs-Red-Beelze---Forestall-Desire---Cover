@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				19
+			],
+			"anim": "walk",
+			"fps": 10,
+			"name": " ani1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "idle",
+			"fps": 11,
+			"name": " idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				17
+			],
+			"anim": "singUP",
+			"fps": 11,
+			"name": " up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 11,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 11,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 11,
+			"name": " right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				163,
+				30
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "laugh",
+			"indices": [],
+			"name": " ani2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beelze_normal",
+	"position": [
+		1030,
+		-40
+	],
+	"healthicon": "duet",
+	"flip_x": false,
+	"healthbar_colors": [
+		126,
+		93,
+		145
+	],
+	"camera_position": [
+		-550,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}
